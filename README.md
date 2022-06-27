@@ -49,4 +49,4 @@ Now you can visit `localhost:3000` and see the Todo list decentralized applicati
 
 Make sure to connect to the `goerli` network and connect to `localhost:3000` from MetaMask.
 
-If you're new to MetaMask, follow the tutorial [here](https://hulyakarakaya.hashnode.dev/how-to-build-a-decentralized-to-do-app-with-solidity-and-alchemy).
+## If you're new to MetaMask, follow the tutorial [here](https://hulyakarakaya.hashnode.dev/how-to-build-a-decentralized-to-do-app-with-solidity-and-alchemy).

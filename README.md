@@ -1,4 +1,4 @@
-# Todo dApp with Solididty, Alchemy, and Hardhat
+# To-do dApp with Solidity, Alchemy, and Hardhat
 
 ## Getting Started
 
